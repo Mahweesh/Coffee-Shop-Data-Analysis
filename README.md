@@ -13,7 +13,7 @@ Sales variation across days of the week
 Monthly revenue trends
 Best-selling products and categories
 Average price and order per customer
-Performance across different store locations
+Performance across different store locations.
 
 The analysis is useful for inventory management, staffing decisions, marketing strategies, and improving overall business performance.
 
@@ -23,7 +23,7 @@ Sales dataset containing total bills, product types, categories, store locations
 Derived metrics include:
 Average order per person
 Average price per customer
-Product-wise quantity and revenue
+Product-wise quantity and revenue.
 
 Key Insights
 Sales by Day and Hour
@@ -46,12 +46,12 @@ Average items per order: 1.44
 
 Best-Selling Products
 Top 5 products (by quantity and revenue):
-Barista Espresso
-Brewed Black Tea
-Brewed Chai Tea
-Gourmet Brewed Coffee
-Hot Chocolate
-Sales by Product Category and Type
-Coffee (Barista Espresso) leads in revenue
-Tea (Brewed Chai Tea) is second highest
-Bakery items (Scones) are the most popular within the bakery category
+Barista Espresso,
+Brewed Black Tea,
+Brewed Chai Tea,
+Gourmet Brewed Coffee,
+Hot Chocolate,
+Sales by Product Category and Type,
+Coffee (Barista Espresso) leads in revenue,
+Tea (Brewed Chai Tea) is second highest,
+Bakery items (Scones) are the most popular within the bakery category.
