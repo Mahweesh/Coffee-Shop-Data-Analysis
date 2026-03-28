@@ -1,8 +1,8 @@
 # Coffee-Shop-Data-Analysis
 
-#Project Title
+Project Title
 
-#Coffee Shop Sales Analysis Dashboard
+Coffee Shop Sales Analysis Dashboard
 
 Project Description
 
