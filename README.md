@@ -1,10 +1,11 @@
 # Coffee-Shop-Data-Analysis
-**Project Title
-**
-**Coffee Shop Sales Analysis Dashboard
-**
-**Project Description
-**
+
+#Project Title
+
+#Coffee Shop Sales Analysis Dashboard
+
+Project Description
+
 This project analyzes sales data from a coffee shop to provide insights on customer behavior, sales trends, and product performance. The analysis helps understand:
 
 Peak hours for sales
